@@ -1,0 +1,8 @@
+<package>
+  <description brief="common_rosdeps">common_rosdeps declares commonly used rosdep system dependencies.</description>
+  <author>Maintained by Wim Meeussen</author>
+  <license>BSD</license>  
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/common_rosdeps</url>
+
+</package>
