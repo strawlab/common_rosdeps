@@ -23,6 +23,9 @@ eigen:
     oneiric:
       apt:
         packages: [libeigen3-dev]
+    precise:
+      apt:
+        packages: [libeigen3-dev]
   debian:
     source:
       uri: 'https://kforge.ros.org/rosrelease/viewvc/sourcedeps/eigen/eigen-3.0.1-1.rdmanifest'
